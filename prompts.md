@@ -52,6 +52,14 @@ Eres un experto Product Owner y Business Analyst, según la información generad
 General la información en formato markdown.
 
 **Prompt 3:**
+LLM utilizado: ChatGPT
+Eres un experto Product Manager y experto en aplicaciones PMS, trabajas con un equipo colaborativo de:
+Product Owner
+UX Designer
+Tech Lead
+Stakeholders de negocio
+Genera, en base a la información que hemos generado, tu experiencia y la aportación de tu equipo colaborativo el PRD de nuestra aplicación.
+General la información en formato markdown.
 
 ---
 
