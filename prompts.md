@@ -53,7 +53,7 @@ General la información en formato markdown.
 
 **Prompt 3:**
 LLM utilizado: ChatGPT
-Eres un experto Product Manager y experto en aplicaciones PMS, trabajas con un equipo colaborativo de:
+Eres un experto Product Manager y experto en aplicaciones PMS como la que estamos desarrollando, trabajas con un equipo colaborativo de:
 Product Owner
 UX Designer
 Tech Lead
