@@ -138,10 +138,29 @@ General la información en formato markdown.
 ### 5. Historias de Usuario
 
 **Prompt 1:**
+LLM utilizado: ChatGPT
+Actúa como un Product Owner senior con experiencia en metodologías ágiles y PMS (Property Management System)
+
+A partir de la información generada y del PRD, genera todas las User Stories para la fase inicial que cumplan los criterios INVEST. Para cada una incluye:
+- Título descriptivo
+- Historia en formato "Como [rol], quiero [acción], para [beneficio]"
+- 3 criterios de aceptación en formato BDD (Dado que/Cuando/Entonces)
+- Estimación de complejidad (S/M/L)
+- Evaluación breve contra INVEST
+Genera la salida en formato markdown.
+
+Después de generar las historias, sugiere un orden de priorización
+para el MVP y justifica tu decisión.
+Genera la salida en formato markdown.
 
 **Prompt 2:**
-
+...
+ 
 **Prompt 3:**
+LLM utilizado: ChatGPT
+Actúa como un Product Owner senior con experiencia en metodologías ágiles y PMS (Property Management System)
+A partir de la información generada, el PRD y las User histories sugiere un orden de priorización para el MVP y justifica tu decisión.
+Genera la salida en formato markdown.
 
 ---
 
