@@ -14,17 +14,19 @@
 ## 0. Ficha del proyecto
 
 ### **0.1. Tu nombre completo:**
+David Cañizares Sánchez
 
 ### **0.2. Nombre del proyecto:**
+Codec-PMS Gavilán
 
 ### **0.3. Descripción breve del proyecto:**
+Codec-PMS Gavilán es un Property Management System orientado a la gestión de complejos rurales y basado en el uso interno de la aplicación, potenciando el control y la gestión de alojamientos rurales para empresas, autónomos o partículares que necesitan optimizar su tiempo de gestión al no tratarse de su core de negocio.
 
 ### **0.4. URL del proyecto:**
-
-> Puede ser pública o privada, en cuyo caso deberás compartir los accesos de manera segura. Puedes enviarlos a [alvaro@lidr.co](mailto:alvaro@lidr.co) usando algún servicio como [onetimesecret](https://onetimesecret.com/).
+https://codec.fincaelgavilan.com/
 
 ### 0.5. URL o archivo comprimido del repositorio
-
+https://github.com/davidcanizares/Codec-PMS
 > Puedes tenerlo alojado en público o en privado, en cuyo caso deberás compartir los accesos de manera segura. Puedes enviarlos a [alvaro@lidr.co](mailto:alvaro@lidr.co) usando algún servicio como [onetimesecret](https://onetimesecret.com/). También puedes compartir por correo un archivo zip con el contenido
 
 
@@ -35,12 +37,68 @@
 > Describe en detalle los siguientes aspectos del producto:
 
 ### **1.1. Objetivo:**
-
-> Propósito del producto. Qué valor aporta, qué soluciona, y para quién.
+Desarrollar un sistema PMS (Property Management System) especializado en alojamientos rurales que permita centralizar y automatizar la gestión operativa, comercial y legal de un complejo, reduciendo el tiempo dedicado a tareas manuales, minimizando errores y manteniendo la calidad del servicio con el menor coste operativo posible.
 
 ### **1.2. Características y funcionalidades principales:**
+#### Gestión de alojamientos y reservas
+- Gestión de unidades (alojamientos)
+- Creación de reservas por clientes (frontend con registro previo)
+- Creación y gestión de reservas internas
+- Estados de reserva (confirmada, cancelada, etc.)
+- Calendario de disponibilidad y gestión (posible uso de BAT)
+- Bloqueo de fechas
 
-> Enumera y describe las características y funcionalidades específicas que tiene el producto para satisfacer las necesidades identificadas.
+#### Gestión de clientes
+- Registro y autenticación de usuarios
+- Historial de reservas
+- Notas internas sobre clientes
+- Marcado de clientes conflictivos y bloqueo de futuras reservas
+
+#### Web pública
+- Página corporativa
+- Visualización de alojamientos
+- Calendario de disponibilidad
+- Formulario de contacto
+- Motor de reservas
+
+#### Integraciones externas
+- Sincronización con plataformas:
+  - Booking.com  
+  - Airbnb  
+  - Escapada Rural  
+- Integración con Ministerio del Interior de España para registro de viajeros
+
+#### Operativa interna
+- Notas internas en reservas (preparación de habitaciones)
+- Gestión básica de tareas operativas
+- Impresión de contratos de reserva
+
+#### Check-in automatizado
+- Envío automático de check-in a clientes antes de la llegada
+- Recogida digital de datos de huéspedes
+- Asociación de datos a la reserva
+- Posible automatización del envío al Ministerio
+
+#### Facturación
+- Generación de facturas
+- Asociación factura-reserva
+
+#### Gestión de inventario
+- Control de stock:
+  - Sábanas
+  - Mantas
+  - Productos de limpieza
+
+#### Informes
+- Informes de rentabilidad
+- Análisis de ocupación
+- Ingresos por unidad o periodo
+
+#### Arquitectura y extensibilidad
+- Sistema modular
+- Preparado para ampliaciones futuras:
+  - Sistema de fichaje de empleados
+  - Gestión de actividades (paintball, canoas, bicicletas, etc.)
 
 ### **1.3. Diseño y experiencia de usuario:**
 
