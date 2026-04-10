@@ -154,7 +154,9 @@ para el MVP y justifica tu decisión.
 Genera la salida en formato markdown.
 
 **Prompt 2:**
-...
+LLM utilizado: ChatGPT
+Has omitido el rol de usuario de la tienda, es decir aquel usuario que debe registrarse para poder comprar, ya que para realizar la compra el registro se ha determinado como obligatorio.
+Indícame dónde debo añadirlo en el documento y dame la respuesta en formato markdown.
  
 **Prompt 3:**
 LLM utilizado: ChatGPT
