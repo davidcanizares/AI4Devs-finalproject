@@ -44,7 +44,7 @@ Patrón aplicado:
 
 ### Backend
 - Drupal 10/11
-- PHP 8.2+
+- PHP 8.4+
 
 ### Base de datos
 - MySQL / MariaDB
