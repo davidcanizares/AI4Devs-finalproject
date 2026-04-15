@@ -87,6 +87,16 @@ o	Monolítica (Drupal)
 o	Headless (Drupal + React) 
 
 **Prompt 3:**
+LLM utilizado: ChatGPT
+Como experto Tech Lead y Arquitecto de software en proyectos PMS (Property Management System) y Drupal para Front y Backend crea a partir de la información generada y herramientas como Mermaid o Draw.io el Documento de Arquitectura con la información y diagramas necesarios.
+El documento debe incluir:
+•	Frontend 
+•	Backend (Drupal) 
+•	Base de datos 
+•	Integraciones externas: 
+o	SES.MIR 
+o	Plataformas (Booking, etc.) 
+Genera la salida en formato markdown
 
 ### **2.2. Descripción de componentes principales:**
 
