@@ -119,10 +119,24 @@ Genera la salida en formato markdown
 ### **2.2. Descripción de componentes principales:**
 
 **Prompt 1:**
+LLM utilizado: ChatGTP
+
+Como experto Tech Lead y Arquitecto de software en proyectos PMS (Property Management System) y Drupal para Front y Backend crea a partir de la información generada un documento anexo al de ARQ en formato markdown con la descripción detallada de los componentes principales.
+
+Adjunto documento ARQ
 
 **Prompt 2:**
+LLM utilizado: ChatGTP
+
+Como experto Tech Lead y Arquitecto de software en proyectos PMS (Property Management System) y Drupal para Front y Backend genera el documento ampliando y documentando más el punto 3. Backend (Drupal Core + Custom Modules)
 
 **Prompt 3:**
+
+LLM utilizado: ChatGTP
+
+Como experto Tech Lead y Arquitecto de software en proyectos PMS (Property Management System) y Drupal para Front y Backend genera el documento ampliando y documentando más el punto 4. Módulos PMS (detalle técnico)
+
+Genera un markdown descargable.
 
 ### **2.3. Descripción de alto nivel del proyecto y estructura de ficheros**
 
