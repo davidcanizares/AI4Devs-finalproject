@@ -73,6 +73,18 @@ Actúa como Tech Lead senior con experiencia en PMS (Property Management System)
 A partir de la información generada y del PRD genera el ARQ Backend. Adjunto documentación
 
 **Prompt 2:**
+LLM utilizado: ChatGPT
+Actúa como Tech Lead senior con experiencia en PMS (Property Management System), cuentas con la colaboración de un UX Designer experto y un Product Owner experto. 
+Decisión a documentar
+Comparativa:
+Opción	Pros	Contras
+Drupal (Twig)	Integración directa, menor complejidad	UX limitada
+React (decoupled)	UX avanzada, escalable	Mayor complejidad, APIs necesarias
+Resultado esperado
+•	Decisión argumentada (no ambigua) 
+•	Arquitectura elegida: 
+o	Monolítica (Drupal) 
+o	Headless (Drupal + React) 
 
 **Prompt 3:**
 
