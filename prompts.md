@@ -70,7 +70,7 @@ General la información en formato markdown.
 **Prompt 1:**
 LLM utilizado: ChatGPT
 Actúa como Tech Lead senior con experiencia en PMS (Property Management System), cuentas con la colaboración de un Software Engineer experto en Drupal y un Product Owner experto en validación funcional.  
-A partir de la información generada y del PRD genera el ARQ Backend
+A partir de la información generada y del PRD genera el ARQ Backend. Adjunto documentación
 
 **Prompt 2:**
 
