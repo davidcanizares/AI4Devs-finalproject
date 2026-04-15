@@ -68,6 +68,9 @@ General la información en formato markdown.
 ### **2.1. Diagrama de arquitectura:**
 
 **Prompt 1:**
+LLM utilizado: ChatGPT
+Actúa como Tech Lead senior con experiencia en PMS (Property Management System), cuentas con la colaboración de un Software Engineer experto en Drupal y un Product Owner experto en validación funcional.  
+A partir de la información generada y del PRD genera el ARQ Backend
 
 **Prompt 2:**
 
